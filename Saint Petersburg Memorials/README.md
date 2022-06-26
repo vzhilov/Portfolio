@@ -1,1 +1,1 @@
-# analytics_portfolio
+#Short statistical analysis on Saint Petersburg, Russia architectural memorials
