@@ -1,1 +1,5 @@
-# Short statistical analysis on Saint Petersburg, Russia architectural memorials
+# Волонтерский проект по развитию туризма в Карелии.
+
+Весь дизайн, верстка, фотографирование, постообработка фото, логотипы и графика выполнены собственными силами
+
+![alt text](IMG_3233.jpg)
