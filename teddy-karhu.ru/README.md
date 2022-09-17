@@ -1,1 +1,4 @@
-# Short statistical analysis on Saint Petersburg, Russia architectural memorials
+# Волонтерский проект по развитию туризма в Карелии
+Сайт одного из гостевых домов в городе Медвежьегорс, Карелия сделан на CMS MODX.
+
+![alt text](IMG_3232.jpg)
